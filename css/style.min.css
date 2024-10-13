@@ -477,7 +477,7 @@
 
  @media (max-width:1200px) {
      .display-2 {
-         font-size: calc(1.675rem + 5.1vw)
+         font-size: calc(0.8rem + 4vw)
      }
  }
 
